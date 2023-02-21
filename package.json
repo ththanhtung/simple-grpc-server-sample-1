@@ -1,0 +1,16 @@
+{
+  "name": "simple-grpc-test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.7.5",
+    "grpc": "^1.24.11"
+  }
+}
